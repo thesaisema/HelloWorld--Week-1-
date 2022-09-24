@@ -5,7 +5,7 @@ This is as simple as getting a print statement to print in the terminal! It's a 
 
 Below is a link to my demo video on how to run this program properly.
 
-[Software Demo Video]([https://youtu.be/0VVShAPhOd4])
+* [Youtube](https://www.youtube.com/)
 
 # Development Environment
 
